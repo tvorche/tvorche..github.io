@@ -1,0 +1,26 @@
+{
+  " name " : " слайдер-до-после " ,
+  " версия " : " 1.0.0 " ,
+  " description " : " Это идеальный слайдер до и после автора Марио Магомедова " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " test " : " echo \" Ошибка: тест не указан \ " && exit 1 "
+  },
+  " репозиторий " : {
+    " тип " : " мерзавец " ,
+    " url " : " git + https: //github.com/web-2017/sliderBeforeAfter.git "
+  },
+  " ключевые слова " : [
+    " слайдер " ,
+    " sliderjs " ,
+    " слайдер-до-после " ,
+    " изображение-до-после " ,
+    " слайдер до после "
+  ],
+  « автор » : « Марио Магомедов » ,
+  " лицензия " : " ISC " ,
+  " bugs " : {
+    " url " : " https://github.com/web-2017/sliderBeforeAfter/issues "
+  },
+  " домашняя страница " : " https://github.com/web-2017/sliderBeforeAfter#readme "
+}
